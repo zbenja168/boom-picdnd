@@ -1,0 +1,611 @@
+[
+  {
+    "id": "bodnd-001",
+    "imageRef": "bodnd-001_10_p10_1.png",
+    "label": "Replication fork",
+    "category": "Physiology & Mechanisms",
+    "brick": "DNA Replication"
+  },
+  {
+    "id": "bodnd-002",
+    "imageRef": "bodnd-002_10_p15_1.png",
+    "label": "Sliding clamp",
+    "category": "Physiology & Mechanisms",
+    "brick": "DNA Replication"
+  },
+  {
+    "id": "bodnd-003",
+    "imageRef": "bodnd-003_10_p19_1.png",
+    "label": "DNA proofreading",
+    "category": "Physiology & Mechanisms",
+    "brick": "DNA Replication"
+  },
+  {
+    "id": "bodnd-004",
+    "imageRef": "bodnd-004_10_p2_1.png",
+    "label": "Semiconservative replication",
+    "category": "Physiology & Mechanisms",
+    "brick": "DNA Replication"
+  },
+  {
+    "id": "bodnd-005",
+    "imageRef": "bodnd-005_10_p4_1.png",
+    "label": "Origin of replication",
+    "category": "Physiology & Mechanisms",
+    "brick": "DNA Replication"
+  },
+  {
+    "id": "bodnd-006",
+    "imageRef": "bodnd-006_10_p4_2.png",
+    "label": "Replication bubble",
+    "category": "Physiology & Mechanisms",
+    "brick": "DNA Replication"
+  },
+  {
+    "id": "bodnd-007",
+    "imageRef": "bodnd-007_10_p6_1.png",
+    "label": "Single-stranded binding protein",
+    "category": "Physiology & Mechanisms",
+    "brick": "DNA Replication"
+  },
+  {
+    "id": "bodnd-008",
+    "imageRef": "bodnd-008_11_p10_1.png",
+    "label": "5' cap",
+    "category": "Histology & Cell Biology",
+    "brick": "The Central Dogma: DNA to RNA to Proteins"
+  },
+  {
+    "id": "bodnd-009",
+    "imageRef": "bodnd-009_11_p12_1.png",
+    "label": "Spliceosome",
+    "category": "Histology & Cell Biology",
+    "brick": "The Central Dogma: DNA to RNA to Proteins"
+  },
+  {
+    "id": "bodnd-010",
+    "imageRef": "bodnd-010_11_p13_1.png",
+    "label": "Alternative splicing",
+    "category": "Histology & Cell Biology",
+    "brick": "The Central Dogma: DNA to RNA to Proteins"
+  },
+  {
+    "id": "bodnd-011",
+    "imageRef": "bodnd-011_11_p17_1.png",
+    "label": "Ribosome",
+    "category": "Histology & Cell Biology",
+    "brick": "The Central Dogma: DNA to RNA to Proteins"
+  },
+  {
+    "id": "bodnd-012",
+    "imageRef": "bodnd-012_11_p19_1.png",
+    "label": "tRNA",
+    "category": "Histology & Cell Biology",
+    "brick": "The Central Dogma: DNA to RNA to Proteins"
+  },
+  {
+    "id": "bodnd-013",
+    "imageRef": "bodnd-013_13_p17_1.png",
+    "label": "EDTA tube",
+    "category": "Lab & Diagnostics",
+    "brick": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+  },
+  {
+    "id": "bodnd-014",
+    "imageRef": "bodnd-014_13_p2_1.png",
+    "label": "Amino acid",
+    "category": "Histology & Cell Biology",
+    "brick": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+  },
+  {
+    "id": "bodnd-015",
+    "imageRef": "bodnd-015_13_p3_1.png",
+    "label": "Peptide bond",
+    "category": "Histology & Cell Biology",
+    "brick": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+  },
+  {
+    "id": "bodnd-016",
+    "imageRef": "bodnd-016_14_p13_1.png",
+    "label": "Trousseau sign",
+    "category": "Pathology",
+    "brick": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+  },
+  {
+    "id": "bodnd-017",
+    "imageRef": "bodnd-017_14_p5_1.png",
+    "label": "Heinz bodies",
+    "category": "Lab & Diagnostics",
+    "brick": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+  },
+  {
+    "id": "bodnd-018",
+    "imageRef": "bodnd-018_15_p15_1.png",
+    "label": "Michaelis-Menten curve",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+  },
+  {
+    "id": "bodnd-019",
+    "imageRef": "bodnd-019_15_p21_1.png",
+    "label": "Lineweaver-Burk plot",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+  },
+  {
+    "id": "bodnd-020",
+    "imageRef": "bodnd-020_15_p24_1.png",
+    "label": "Pyruvate carboxylase",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+  },
+  {
+    "id": "bodnd-021",
+    "imageRef": "bodnd-021_15_p9_1.png",
+    "label": "Glycogenolysis pathway",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+  },
+  {
+    "id": "bodnd-022",
+    "imageRef": "bodnd-022_17_p13_1.png",
+    "label": "Sickled red blood cell",
+    "category": "Pathology",
+    "brick": "Biotechniques: Protein Detection"
+  },
+  {
+    "id": "bodnd-023",
+    "imageRef": "bodnd-023_17_p5_1.png",
+    "label": "ELISA",
+    "category": "Lab & Diagnostics",
+    "brick": "Biotechniques: Protein Detection"
+  },
+  {
+    "id": "bodnd-024",
+    "imageRef": "bodnd-024_17_p9_1.png",
+    "label": "Flow cytometry",
+    "category": "Lab & Diagnostics",
+    "brick": "Biotechniques: Protein Detection"
+  },
+  {
+    "id": "bodnd-025",
+    "imageRef": "bodnd-025_18_p13_1.png",
+    "label": "Cellulose",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I"
+  },
+  {
+    "id": "bodnd-026",
+    "imageRef": "bodnd-026_18_p8_1.png",
+    "label": "Sucrose",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I"
+  },
+  {
+    "id": "bodnd-027",
+    "imageRef": "bodnd-027_19_p2_1.png",
+    "label": "Glycogen",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I"
+  },
+  {
+    "id": "bodnd-028",
+    "imageRef": "bodnd-028_19_p6_1.png",
+    "label": "Lactose intolerance",
+    "category": "Pathology",
+    "brick": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I"
+  },
+  {
+    "id": "bodnd-029",
+    "imageRef": "bodnd-029_20_p12_1.png",
+    "label": "Gluconeogenesis",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II"
+  },
+  {
+    "id": "bodnd-030",
+    "imageRef": "bodnd-030_20_p20_1.png",
+    "label": "Pyruvate dehydrogenase complex",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II"
+  },
+  {
+    "id": "bodnd-031",
+    "imageRef": "bodnd-031_20_p3_1.png",
+    "label": "Glycolysis",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II"
+  },
+  {
+    "id": "bodnd-032",
+    "imageRef": "bodnd-032_22_p21_1.png",
+    "label": "Carnitine shuttle",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Lipids and Lipid Metabolism Introduction"
+  },
+  {
+    "id": "bodnd-033",
+    "imageRef": "bodnd-033_22_p22_1.png",
+    "label": "Carnitine shuttle",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Lipids and Lipid Metabolism Introduction"
+  },
+  {
+    "id": "bodnd-034",
+    "imageRef": "bodnd-034_22_p2_1.png",
+    "label": "Fatty acid",
+    "category": "Histology & Cell Biology",
+    "brick": "BOOM: Lipids and Lipid Metabolism Introduction"
+  },
+  {
+    "id": "bodnd-035",
+    "imageRef": "bodnd-035_23_p7_1.png",
+    "label": "Ketone bodies",
+    "category": "Histology & Cell Biology",
+    "brick": "BOOM: Lipids and Lipid Metabolism Introduction"
+  },
+  {
+    "id": "bodnd-036",
+    "imageRef": "bodnd-036_24_p4_1.png",
+    "label": "Arachidonic acid",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Lipids and Lipid Metabolism Introduction"
+  },
+  {
+    "id": "bodnd-037",
+    "imageRef": "bodnd-037_25_p29_1.png",
+    "label": "Nitric oxide signaling",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Overview of Cell Signaling"
+  },
+  {
+    "id": "bodnd-038",
+    "imageRef": "bodnd-038_25_p31_1.png",
+    "label": "GPCR signaling",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Overview of Cell Signaling"
+  },
+  {
+    "id": "bodnd-039",
+    "imageRef": "bodnd-039_25_p5_1.png",
+    "label": "Endocrine signaling",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Overview of Cell Signaling"
+  },
+  {
+    "id": "bodnd-040",
+    "imageRef": "bodnd-040_26_p14_1.png",
+    "label": "Wnt/beta-catenin pathway",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Overview of Cell Signaling"
+  },
+  {
+    "id": "bodnd-041",
+    "imageRef": "bodnd-041_26_p19_1.png",
+    "label": "Philadelphia chromosome",
+    "category": "Pathology",
+    "brick": "BOOM: Overview of Cell Signaling"
+  },
+  {
+    "id": "bodnd-042",
+    "imageRef": "bodnd-042_26_p21_1.png",
+    "label": "Cafe-au-lait macules",
+    "category": "Pathology",
+    "brick": "BOOM: Overview of Cell Signaling"
+  },
+  {
+    "id": "bodnd-043",
+    "imageRef": "bodnd-043_26_p22_1.png",
+    "label": "MC1R melanocyte signaling",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Overview of Cell Signaling"
+  },
+  {
+    "id": "bodnd-044",
+    "imageRef": "bodnd-044_26_p3_1.png",
+    "label": "JAK-STAT pathway",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Overview of Cell Signaling"
+  },
+  {
+    "id": "bodnd-045",
+    "imageRef": "bodnd-045_26_p5_1.png",
+    "label": "HIF oxygen sensing",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Overview of Cell Signaling"
+  },
+  {
+    "id": "bodnd-046",
+    "imageRef": "bodnd-046_26_p9_1.png",
+    "label": "NF-kB pathway",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Overview of Cell Signaling"
+  },
+  {
+    "id": "bodnd-047",
+    "imageRef": "bodnd-047_27_p9_1.png",
+    "label": "Glycerol kinase",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State"
+  },
+  {
+    "id": "bodnd-048",
+    "imageRef": "bodnd-048_28_p10_1.png",
+    "label": "Adenylate kinase",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State"
+  },
+  {
+    "id": "bodnd-049",
+    "imageRef": "bodnd-049_29_p11_1.png",
+    "label": "Acanthosis nigricans",
+    "category": "Pathology",
+    "brick": "Basic Nutritional Requirements for Metabolism"
+  },
+  {
+    "id": "bodnd-050",
+    "imageRef": "bodnd-050_2_p13_1.png",
+    "label": "Calcium oxalate crystals",
+    "category": "Lab & Diagnostics",
+    "brick": "BOOM: Metabolic Overview I: General Reactions"
+  },
+  {
+    "id": "bodnd-051",
+    "imageRef": "bodnd-051_30_p13_1.png",
+    "label": "Rickets",
+    "category": "Pathology",
+    "brick": "Basic Nutritional Requirements for Metabolism"
+  },
+  {
+    "id": "bodnd-052",
+    "imageRef": "bodnd-052_31_p9_1.png",
+    "label": "Zinc deficiency",
+    "category": "Pathology",
+    "brick": "BOOM: Basic Nutritional Requirements for Metabolism"
+  },
+  {
+    "id": "bodnd-053",
+    "imageRef": "bodnd-053_33_p11_1.png",
+    "label": "Glucose-alanine cycle",
+    "category": "Physiology & Mechanisms",
+    "brick": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+  },
+  {
+    "id": "bodnd-054",
+    "imageRef": "bodnd-054_33_p6_1.png",
+    "label": "Urea cycle",
+    "category": "Physiology & Mechanisms",
+    "brick": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+  },
+  {
+    "id": "bodnd-055",
+    "imageRef": "bodnd-055_34_p10_1.png",
+    "label": "Alkaptonuria",
+    "category": "Physiology & Mechanisms",
+    "brick": "Amino Acid Metabolism II: Inborn Errors"
+  },
+  {
+    "id": "bodnd-056",
+    "imageRef": "bodnd-056_34_p25_1.png",
+    "label": "Cystine crystals",
+    "category": "Lab & Diagnostics",
+    "brick": "Amino Acid Metabolism II: Inborn Errors"
+  },
+  {
+    "id": "bodnd-057",
+    "imageRef": "bodnd-057_34_p5_1.png",
+    "label": "Serotonin synthesis",
+    "category": "Physiology & Mechanisms",
+    "brick": "Amino Acid Metabolism II: Inborn Errors"
+  },
+  {
+    "id": "bodnd-058",
+    "imageRef": "bodnd-058_35_p21_1.png",
+    "label": "Phototherapy",
+    "category": "Physiology & Mechanisms",
+    "brick": "Porphyrins and Iron Homeostasis"
+  },
+  {
+    "id": "bodnd-059",
+    "imageRef": "bodnd-059_35_p6_1.png",
+    "label": "Ringed sideroblast",
+    "category": "Histology & Cell Biology",
+    "brick": "Porphyrins and Iron Homeostasis"
+  },
+  {
+    "id": "bodnd-060",
+    "imageRef": "bodnd-060_37_p10_1.png",
+    "label": "Debranching enzyme",
+    "category": "Physiology & Mechanisms",
+    "brick": "Inborn Errors of Carbohydrate Metabolism"
+  },
+  {
+    "id": "bodnd-061",
+    "imageRef": "bodnd-061_37_p10_2.png",
+    "label": "Limit dextrin",
+    "category": "Physiology & Mechanisms",
+    "brick": "Inborn Errors of Carbohydrate Metabolism"
+  },
+  {
+    "id": "bodnd-062",
+    "imageRef": "bodnd-062_38_p10_1.png",
+    "label": "Foam cell",
+    "category": "Pathology",
+    "brick": "Dyslipidemias and Lipid Storage Disorders"
+  },
+  {
+    "id": "bodnd-063",
+    "imageRef": "bodnd-063_38_p8_1.png",
+    "label": "Corneal arcus",
+    "category": "Pathology",
+    "brick": "Dyslipidemias and Lipid Storage Disorders"
+  },
+  {
+    "id": "bodnd-064",
+    "imageRef": "bodnd-064_38_p8_2.png",
+    "label": "Eruptive xanthomas",
+    "category": "Pathology",
+    "brick": "Dyslipidemias and Lipid Storage Disorders"
+  },
+  {
+    "id": "bodnd-065",
+    "imageRef": "bodnd-065_39_p5_1.png",
+    "label": "Retinal fundus",
+    "category": "Lab & Diagnostics",
+    "brick": "Dyslipidemias and Lipid Storage Disorders"
+  },
+  {
+    "id": "bodnd-066",
+    "imageRef": "bodnd-066_3_p2_1.png",
+    "label": "Mitochondrion",
+    "category": "Physiology & Mechanisms",
+    "brick": "BOOM: Metabolic Overview II: OXPHOS"
+  },
+  {
+    "id": "bodnd-067",
+    "imageRef": "bodnd-067_40_p11_1.png",
+    "label": "Karyotype",
+    "category": "Lab & Diagnostics",
+    "brick": "Chromosomes"
+  },
+  {
+    "id": "bodnd-068",
+    "imageRef": "bodnd-068_40_p13_2.png",
+    "label": "Karyotype",
+    "category": "Lab & Diagnostics",
+    "brick": "Chromosomes"
+  },
+  {
+    "id": "bodnd-069",
+    "imageRef": "bodnd-069_40_p19_1.png",
+    "label": "Robertsonian translocation",
+    "category": "Pathology",
+    "brick": "Chromosomes"
+  },
+  {
+    "id": "bodnd-070",
+    "imageRef": "bodnd-070_40_p21_1.png",
+    "label": "Chromosome duplication",
+    "category": "Physiology & Mechanisms",
+    "brick": "Chromosomes"
+  },
+  {
+    "id": "bodnd-071",
+    "imageRef": "bodnd-071_40_p22_1.png",
+    "label": "Paracentric inversion",
+    "category": "Physiology & Mechanisms",
+    "brick": "Chromosomes"
+  },
+  {
+    "id": "bodnd-072",
+    "imageRef": "bodnd-072_40_p8_1.png",
+    "label": "Mitosis",
+    "category": "Histology & Cell Biology",
+    "brick": "Chromosomes"
+  },
+  {
+    "id": "bodnd-073",
+    "imageRef": "bodnd-073_42_p10_1.png",
+    "label": "Turner syndrome",
+    "category": "Pathology",
+    "brick": "Sex Chromosome Aneuploidy"
+  },
+  {
+    "id": "bodnd-074",
+    "imageRef": "bodnd-074_42_p12_1.png",
+    "label": "Klinefelter syndrome",
+    "category": "Lab & Diagnostics",
+    "brick": "Sex Chromosome Aneuploidy"
+  },
+  {
+    "id": "bodnd-075",
+    "imageRef": "bodnd-075_42_p14_1.png",
+    "label": "Klinefelter syndrome",
+    "category": "Pathology",
+    "brick": "Sex Chromosome Aneuploidy"
+  },
+  {
+    "id": "bodnd-076",
+    "imageRef": "bodnd-076_42_p8_1.png",
+    "label": "Karyotype",
+    "category": "Lab & Diagnostics",
+    "brick": "Sex Chromosome Aneuploidy"
+  },
+  {
+    "id": "bodnd-077",
+    "imageRef": "bodnd-077_44_p17_1.png",
+    "label": "Barr body",
+    "category": "Physiology & Mechanisms",
+    "brick": "Mosaicism"
+  },
+  {
+    "id": "bodnd-078",
+    "imageRef": "bodnd-078_44_p19_1.png",
+    "label": "X-inactivation",
+    "category": "Physiology & Mechanisms",
+    "brick": "Mosaicism"
+  },
+  {
+    "id": "bodnd-079",
+    "imageRef": "bodnd-079_45_p12_1.png",
+    "label": "Array CGH",
+    "category": "Lab & Diagnostics",
+    "brick": "Molecular Biology Techniques: Cytogenetics"
+  },
+  {
+    "id": "bodnd-080",
+    "imageRef": "bodnd-080_45_p16_1.png",
+    "label": "Southern blot",
+    "category": "Lab & Diagnostics",
+    "brick": "Molecular Biology Techniques: Cytogenetics"
+  },
+  {
+    "id": "bodnd-081",
+    "imageRef": "bodnd-081_45_p3_1.png",
+    "label": "Karyotype",
+    "category": "Lab & Diagnostics",
+    "brick": "Molecular Biology Techniques: Cytogenetics"
+  },
+  {
+    "id": "bodnd-082",
+    "imageRef": "bodnd-082_45_p5_1.png",
+    "label": "Philadelphia chromosome",
+    "category": "Pathology",
+    "brick": "Molecular Biology Techniques: Cytogenetics"
+  },
+  {
+    "id": "bodnd-083",
+    "imageRef": "bodnd-083_45_p7_1.png",
+    "label": "FISH",
+    "category": "Lab & Diagnostics",
+    "brick": "Molecular Biology Techniques: Cytogenetics"
+  },
+  {
+    "id": "bodnd-084",
+    "imageRef": "bodnd-084_46_p7_1.png",
+    "label": "Heteroplasmy",
+    "category": "Physiology & Mechanisms",
+    "brick": "Pedigrees and Patterns of Monogenic Inheritance"
+  },
+  {
+    "id": "bodnd-085",
+    "imageRef": "bodnd-085_47_p8_1.png",
+    "label": "Phenylketonuria",
+    "category": "Pathology",
+    "brick": "Genotype-Phenotype Correlation"
+  },
+  {
+    "id": "bodnd-086",
+    "imageRef": "bodnd-086_4_p14_1.png",
+    "label": "Cellulitis",
+    "category": "Pathology",
+    "brick": "BOOM: Metabolic Overview II: OXPHOS"
+  },
+  {
+    "id": "bodnd-087",
+    "imageRef": "bodnd-087_4_p14_2.png",
+    "label": "Peripheral cyanosis",
+    "category": "Pathology",
+    "brick": "BOOM: Metabolic Overview II: OXPHOS"
+  }
+]
